@@ -15,9 +15,11 @@ Welcome to the **Maths and Statistics Repository**! This repository contains Pyt
 - **Mean** - The central value of a dataset
 - **Median** - The middle value when data is sorted
 - **Mode** - The most frequently occurring value
-- **Outliers** - detect the outliers 
+- **Outliers** - detect the outliers
+- **logarithm**
 - **Standard Deviation** - Measuring the dispersion of data
 - **Normal Distribution** - Understanding Gaussian distributions
+- **z-score** - to remove the outliers in the data 
 
 
 
